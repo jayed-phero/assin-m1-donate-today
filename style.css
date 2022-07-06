@@ -154,3 +154,43 @@
 }
 
 
+.donation{
+    margin-top: 101px;
+    margin-left: 201px;
+}
+
+.donation-content{
+    display: flex;
+    padding-bottom: 101px;
+
+}
+
+
+.donation-content .donation-text{
+    width: 451px;
+    padding-right: 155px;
+    padding-top: 55px;
+}
+
+.donation-text h1{
+    font-size: 41px;
+    padding-bottom: 21px;
+}
+
+.donation-text p{
+    padding-bottom: 25px;
+}
+
+.donation-content img{
+    height: 461px;
+    width: 451px ;
+    border-radius: 5px;
+}
+
+.donate-text-pera{
+    padding-bottom: 45px !important;
+}
+
+#donate-text-new{
+    padding-left: 155px;
+}
