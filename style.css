@@ -197,8 +197,41 @@
 }
 
 
+.relief-section{
+    width: 1101px;
+    margin-top: 55px;
+    text-align: center;
+    background: #f1eded;
+    margin-left: 211px;
+    box-shadow: 7px 7px 11px gray;
+}
+
+.relief-section p{
+    padding: 25px 155px;
+}
+
+
+.image-gallery{
+    display: flex;
+    margin-left: 11px;
+}
+
+.image-gallery img{
+     height: 351px;
+     width: 501px;
+     border: 3px solid green;
+     margin: 7px;
+     padding: 7px;
+}
+
+.relief-section h1{
+    padding-top: 25px;
+    font-size: 45px;
+}
+
+
 .get-update {
-    margin-top: 21px;
+    margin-top: 111px;
 }
 
 .update-title{
