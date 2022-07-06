@@ -150,7 +150,7 @@
 
 
 #description-3{
-    background: #dfdfad;
+    background: #FFF4D6;
 }
 
 
@@ -175,6 +175,7 @@
 .donation-text h1{
     font-size: 41px;
     padding-bottom: 21px;
+    line-height: 49px;
 }
 
 .donation-text p{
@@ -193,4 +194,68 @@
 
 #donate-text-new{
     padding-left: 155px;
+}
+
+
+.get-update {
+    margin-top: 21px;
+}
+
+.update-title{
+    text-align: center;
+}
+
+.update-title h1{
+    font-size: 45px;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+
+.update-title p{
+    padding-bottom: 45px;
+    color: rgb(143, 137, 137);
+}
+
+
+.update-content{
+    height: 151px;
+    width: 751px;
+    background: #FFF4D6;
+    margin-left: 391px;
+}
+
+
+.update-text{
+    display: flex;
+    padding-left: 0;
+    padding-top: 61px;
+    padding-left: 151px;
+}
+
+.get-text-1{
+    height: 31px;
+    width: 391px;
+    padding-top: 9px;
+    background: #D9D9D9;
+    border-radius: 25px 35px 0px 50px;
+    border-radius: 5px;
+    padding-left: 15px;
+    color: gray;
+   
+}
+
+.get-text-2{
+    height: 31px;
+    width: 151px;
+    padding-top: 9px;
+    background: #FF5959;
+    border-radius: 5px;
+    color: white;
+    padding-left: 15px;
+}
+
+.get-text-1 span{
+    text-align: right;
+    width: 271px;
+    color: red;
 }
