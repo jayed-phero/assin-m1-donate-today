@@ -45,13 +45,13 @@
 }
 
 .title h1{
-    font-size: 45px;
+    font-size: 41px;
     padding-bottom: 15px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .title p{
-    color: rgb(122, 119, 119);
+    color: rgb(143, 137, 137);
 }
 
 .amount-item .amount{
@@ -94,5 +94,65 @@
 
 
 .donate-plan{
-    margin-top: 201px;
+    margin-top: 121px;
 }
+
+.donate-plan .plan-title{
+    text-align: center;
+}
+
+
+.plan-title h1{
+    font-size: 41px;
+    font-weight: 600;
+    padding-bottom: 19px;
+}
+
+
+.plan-title p{
+    color:rgb(143, 137, 137) ;
+    padding-bottom: 25px
+}
+
+.plan-description{
+    display: flex;
+    margin-left: 201px;
+}
+
+.plan-description .item-1{
+    height:281px;
+    width: 321px;
+    background: gray;
+    padding-top: 45px;
+    padding-left: 21px;
+    padding-right: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+    padding-bottom: 21px;
+}
+
+.item-1 img{
+    padding-bottom: 21px;
+}
+
+.item-1 h2{
+    padding-bottom: 11px;
+}
+
+
+#description-1{
+    background: #d8ebed;
+}
+
+#description-2{
+    background: #f4d5d5;
+}
+
+
+#description-3{
+    background: #dfdfad;
+}
+
+
+FF5959
+
